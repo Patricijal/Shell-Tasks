@@ -1,0 +1,13 @@
+firstName lastName      ContactInfo                 TechnicalSkills                                   Years    FieldsOfInterest
+--------- ------------- --------------------------- ------------------------------------------------- -------- -----------------------------------
+Alice     Johnson       alice.johnson@gmail.com     Python,JavaScript,React,Django,Docker             5        AI,MachineLearning,WebDevelopment
+Bob       Smith         bob.smith@gmail.com         Java,Spring,Hibernate,Docker,Kubernetes           8        BackendDevelopment,Microservices
+David     Brown         david.brown@gmail.com       Python,Pandas,NumPy,Scikit-learn,TensorFlow       4        DataScience,MachineLearning
+Emma      Davis         emma.davis@gmail.com        R,SQL,Tableau,PowerBI                             3        DataAnalysis,BusinessIntelligence
+Frank     White         frank.white@gmail.com       Ruby,RubyOnRails,PostgreSQL,Heroku                7        WebDevelopment,APIDesign
+Grace     Wilson        grace.wilson@gmail.com      JavaScript,Node.js,Express,Angular,MongoDB        5        FullStackDevelopment,CloudServices
+Henry     Moore         henry.moore@gmail.com       Go,Kubernetes,Docker,AWS,C++                      9        DevOps,CloudInfrastructure
+Ivy       Green         ivy.green@gmail.com         Swift,Objective-C,Xcode,CoreData                  4        MobileDevelopment,iOSApps
+Jack      Taylor        jack.taylor@gmail.com       PHP,Laravel,MySQL,Apache                          6        WebDevelopment,CMSDesign                               
+James     Carl          james.carl@gmail.com        RubyOnRails,PHP,JavaScript                        10       WebDevelopment,FullStackDevelopment               
+Vardas    Pavardenis    vard.pavard@gmail.com       Python,PHP,Java                                   5        MachineLearning,WebDev                            

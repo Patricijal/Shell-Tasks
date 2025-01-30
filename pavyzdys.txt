@@ -1,0 +1,16 @@
+This is a sample text file.
+It contains several lines of text.
+The purpose of this file is to test the WordInAFile function.
+Feel free to modify this text as needed.
+Let's see how many times the word "test" appears in this file.
+Testing is important for software development.
+Do not hesitate to add more lines if you like.
+This is another line for testing purposes.
+This is a sample sample text file.
+It contains several lines of text text text.
+The purpose of this file is to test test the WordInAFile function.
+Feel free to modify this text as needed needed.
+Let's see how many times the word "test" appears in this file file.
+Testing is important important for software development.
+Do not hesitate to add more lines if you like like.
+This is another line for testing testing purposes text.
